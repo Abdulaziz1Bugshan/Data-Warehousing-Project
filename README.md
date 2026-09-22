@@ -1,2 +1,3 @@
-# Data-Warehousing-Project
-Data Warehousing Project (CCDS-221) - ETL Pipeline &amp; Star Schema | University of Jeddah
+# CCDS-221 Data-Warehousing Project
+Star Schema & ETL Pipeline - بناء مشروع مستودعات البيانات
+Course: Data Warehousing (CCDS-221) | University of Jeddah
